@@ -158,7 +158,7 @@ Onyx는 다양한 환경에서 배포할 수 있습니다.
 
 ---
 
-## Onyx Lite
+##  AegisNyx Lite
 
 경량 버전
 
@@ -177,7 +177,7 @@ Onyx는 다양한 환경에서 배포할 수 있습니다.
 
 ---
 
-## Standard Onyx
+## AegisNyx RAG 
 
 전체 기능 제공 버전
 
